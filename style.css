@@ -10,7 +10,7 @@ body{
     
  }
 
- .Qrcode_img {
+ .qrcode_img {
     width: 290px;
     height: 320px;
     border: 3px solid hsl(210, 25%, 98%);
@@ -22,7 +22,7 @@ body{
     padding-bottom: 0px;
   }
 
-  .Qrcode_word {
+  .qrcode_word {
     width: 290px;
     height: 180px;
     border: 3px solid hsl(0, 0%, 100%);
