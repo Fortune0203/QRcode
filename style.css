@@ -10,7 +10,7 @@ body{
     
  }
 
- .iframe {
+ .Qrcode_img {
     width: 290px;
     height: 320px;
     border: 3px solid hsl(210, 25%, 98%);
@@ -22,7 +22,7 @@ body{
     padding-bottom: 0px;
   }
 
-  .iframe2 {
+  .Qrcode_word {
     width: 290px;
     height: 180px;
     border: 3px solid hsl(0, 0%, 100%);
@@ -42,6 +42,7 @@ body{
     font-weight: normal; 
     line-height: 1.2em; 
     text-align: center;
+    padding-bottom: 15px;
 }
 .h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -49,5 +50,6 @@ body{
     font-size: 100%;
     font-weight: lighter;  
     text-align: center;  
+    line-height: 1.3em;
     
 }
